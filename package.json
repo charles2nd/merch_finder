@@ -26,7 +26,6 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@next/eslint-config-next": "14.2.5",
     "@playwright/test": "^1.45.0",
     "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^16.0.0",
